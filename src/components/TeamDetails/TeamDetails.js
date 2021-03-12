@@ -20,7 +20,7 @@ const TeamDetails = () => {
             .then(res => res.json())
             .then(data => setTeamDetails(data.teams[0]))
 
-    }, [])
+    }, [id])
 
 
     return (
