@@ -1,0 +1,16 @@
+.img{
+    width: 80%;
+    height:100px;
+    text-align: center;
+    padding-top: 5px;
+}
+.divDesign{
+    border: 1px solid blueviolet;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 20px;
+   text-align: center;
+}
+.btn{
+    background-color: darkmagenta;
+}

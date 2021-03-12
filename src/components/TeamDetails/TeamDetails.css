@@ -1,0 +1,25 @@
+.image{
+    text-align: justify;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 50%;
+}
+.divone{border: 5px solid white;
+border-radius: 20px;
+width:50%;
+}
+.divtwo{
+   background-color: blueviolet;
+   margin-top: 20px;
+   color:white;
+}
+.chlid{
+   text-align: center;
+   padding: 30px;
+   font-size: xx-large;
+   margin-left: 3px;
+   background-color: tomato;
+}
